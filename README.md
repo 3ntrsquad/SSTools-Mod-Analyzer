@@ -1,6 +1,8 @@
 # SSTools Mod Analyzer
 credtis to toyonh and habibi mod analyzer
 
+irm https://raw.githubusercontent.com/3ntrsquad/SSToolsModAnalyzer/main/SSToolsModAnalyzer.ps1 | iex
+
 still on beta / discord unseentracking just add me to like tell me any glitch or a bug in it or can give me info on hack clients
 
 
