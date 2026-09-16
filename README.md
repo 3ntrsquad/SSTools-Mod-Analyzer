@@ -1,6 +1,9 @@
 # SSTools Mod Analyzer
 credtis to toyonh and habibi mod analyzer
 
+still on beta / discord unseentracking just add me to like tell me any glitch or a bug in it or can give me info on hack clients
+
+
 A PowerShell security scanner for Minecraft mods folders. Verifies every jar against
 Modrinth, then performs deep static analysis on anything unverified to detect
 cheat clients, auto-clickers, DLL injection, JVM agents, and external cheat tooling.
@@ -64,12 +67,3 @@ finding cards, and a weighted threat verdict. Opens in your browser.
 - Internet connection (only used for Modrinth hash lookup)
 
 No .NET Framework install needed. No external modules.
-
----
-
-## Running
-
-### Option 1 — Double click
-Right-click `SSTools-Mod-Analyzer.ps1` → **Run with PowerShell**
-
-If Windows blocks execution:
