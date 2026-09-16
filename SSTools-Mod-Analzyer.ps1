@@ -1,5 +1,5 @@
 #requires -Version 5.1
-# SSTools Mod Analyzer v11
+# SSTools Mod Analyzer beta
 
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 [Console]::InputEncoding  = [System.Text.Encoding]::UTF8
